@@ -86,13 +86,16 @@ contract PostQuantumWallet {
 
 # Expected Output:
 Users register using a post-quantum secure public key.
+![image](https://github.com/user-attachments/assets/f5e86a1d-4181-4b0f-afad-c803ad55066c)
 
 
 Transactions require a quantum-resistant signature for authentication.
 
+![image](https://github.com/user-attachments/assets/4573ad37-ec11-416a-89f6-b2a91bf328c3)
 
 If a traditional quantum-vulnerable hash is used, the transaction fails.
 
+![image](https://github.com/user-attachments/assets/fd883204-2210-4b93-89db-33842933c825)
 
 # RESULT : 
 High-Level Overview:
